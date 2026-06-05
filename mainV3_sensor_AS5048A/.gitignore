@@ -1,0 +1,42 @@
+# STM32CubeIDE and build artifacts
+
+# Build output
+Debug/
+Release/
+STM32CubeIDE/Debug/
+STM32CubeIDE/Release/
+
+# IDE files
+*.launch
+*.log
+*.dep
+*.elf
+*.bin
+*.hex
+*.lst
+*.map
+*.o
+*.a
+*~
+*.swp
+*.vscode/
+
+# STM32CubeIDE specific
+*.project
+*.cproject
+*.mxproject
+*/.settings/
+
+# Generated code and intermediate files
+*.lst
+*.tmp
+*.cache
+data/
+
+# User-specific files
+*.user
+*.userprefs
+
+# Git log and patch files
+*.patch
+*.orig
