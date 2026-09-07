@@ -1,3 +1,6 @@
+Testing the implemented spi encoder interface for position control using a rebuilt with position control
+
+
 # AS5048A SPI Encoder Integration for ST Motor Control SDK (MC SDK 6.4.1)
 
 A custom **absolute magnetic encoder** speed/position feedback driver that integrates the
